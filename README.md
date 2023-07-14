@@ -1,0 +1,2 @@
+# qb-hunting
+simple hunting
